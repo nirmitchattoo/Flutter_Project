@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470321139290",
+    "project_id": "myapp-c1a1b",
+    "storage_bucket": "myapp-c1a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470321139290:android:c40eeb85a0b5e3c71a9263",
+        "android_client_info": {
+          "package_name": "com.example.loginportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470321139290-tn8hd513end8gu0svl2g3gbde0d85ros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HvGqw0r5BXqFm_d2fQM9oMSeFP2LIVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470321139290-tn8hd513end8gu0svl2g3gbde0d85ros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
